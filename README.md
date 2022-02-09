@@ -7,16 +7,14 @@ Bank Marketing &amp; Insurance. The concepts of Clustering, CART, Random Forest,
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 From the above table we can easily find out the values of Accuracy, AUC, Recall, Precision, and F-1 Score of two different model which Logistic Regression and LDA.
 Inference From the above table:-
+From the above table we can easily find out the values of Accuracy, AUC, Recall, Precision, and F-1 Score of two different model which Logistic Regression and LDA.
+Inference From the above table:-
 1) Accuracy is almost same for all except LR test data which is 0.65
-2) 
-3) AUC for LR train and LDA train has same area under the curve about 0.73 .Whereas LDA test has least AUC of abut 0.70
-4) 
-5) Recall for LDA test is the highest of about 0.73 and least is for LR test of about 0.51
-6) 
-7) Precision in LDA test is lacking of about 0.61 while rest are having a value of 065
-8) 
-9) F1 Score for the LDA test is the highest of about 0.66 whereas LR Test performed poorly of about 0.57
-10) 
+2) AUC for LR train and LDA train has same area under the curve about 0.73 .Whereas LDA test has least AUC of abut 0.70
+3) Recall for LDA test is the highest of about 0.73 and least is for LR test of about 0.51
+4) Precision in LDA test is lacking of about 0.61 while rest are having a value of 065
+5) F1 Score for the LDA test is the highest of about 0.66 whereas LR Test performed poorly of about 0.57
+
 Since we are building a model to predict if a person has opted holiday package or not, for practical purposes, we will be more interested in correctly classifying 1 (having opted claim) than 0(not opted).
 
 
